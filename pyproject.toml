@@ -40,7 +40,7 @@ all = [
     "torchmetrics==0.7",
     "tensorflow",
     "torch",
-    "pytorch-lightning==1.7",
+    "pytorch-lightning==2.6.1",
 ]
 
 dev = [
@@ -52,7 +52,7 @@ dev = [
     "pytest-cov",
     "tensorflow",
     "torch",
-    "pytorch-lightning==1.7",
+    "pytorch-lightning==2.6.1",
     "xgboost",
     "sphinx",
     "sphinx_rtd_theme>=1.1.1",
